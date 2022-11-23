@@ -1,0 +1,26 @@
+{
+  "name": "business-cards-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Krakov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "joi": "^17.7.0",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0",
+      "mongoose": "^6.7.2"
+  }
+
+}
+
